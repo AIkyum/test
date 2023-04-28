@@ -1,2 +1,1 @@
-# test
-tutorial
+"민겸"
